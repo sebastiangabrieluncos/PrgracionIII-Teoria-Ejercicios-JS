@@ -5,5 +5,3 @@ let edad = prompt("Ingrese la edad: ");
 if(edad >= "18"){
     console.log("Es mayor de edad");
 }
-
-//se aclara que al usar el promt me devulve un string no un numero
